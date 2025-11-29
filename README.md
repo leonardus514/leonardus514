@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @leonardus514
-- 👀 I’m interested in React, JavaScript, NodeJS, Web Development.
-- 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on all kind of stuff.
+- 👀 I’m interested in Python, C#, Angular
 - 📫 How to reach me: www.jannis-l.de
 
 <!---
